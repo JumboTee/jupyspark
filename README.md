@@ -12,7 +12,7 @@
 
 ## How can i use it:
 - `docker pull amiryus/jupyspark `
-- `docker run -d --name my-jupyspar-name  -p 8000:8000 amiryus/jupyspark`
+- `docker run -d --name my-jupyspark-name  -p 8000:8000 amiryus/jupyspark`
 - Open in your browser this URL: http://<machine-host-ip/dns>:8000
 - Default admin-username: `amiryus` password: `jumbo`
 
